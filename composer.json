@@ -1,0 +1,15 @@
+{
+    "name": "zhyriada/blog",
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "Blog/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zhyriada",
+            "email": "zhyriada7771@gmail.com"
+        }
+    ],
+    "require": {}
+}

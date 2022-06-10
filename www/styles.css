@@ -1,0 +1,14 @@
+.Contractors {
+    width: 50%;
+}
+.Contractors th {
+    width: 10%;
+    border: 1px solid #ddd;
+    padding: 7px 7px;
+}
+.Contractors td {
+    width: 10%;
+    border: 1px solid #ddd;
+    padding: 7px 7px;
+}
+
